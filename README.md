@@ -4,7 +4,7 @@ SimpleXpress Calculator is a user-friendly web app that instantly calculates Sim
 
 ## Features
 
-- Enter Principal, Rate of Interest, and Time in years
+- Enter Principal, Rate of Interest, and Time in months
 - Calculates and displays Simple Interest instantly
 - Mobile responsive layout
 
