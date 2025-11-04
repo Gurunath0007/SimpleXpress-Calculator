@@ -30,7 +30,9 @@ Simple\ Interest = \frac{Principal \times Rate \times Time}{100}
 
 ## Project Screenshots
 
-You can add screenshots of your project running here.
+![screenshot-1](SimpleXpress-Calculator-1.png)
+
+![Screenshot-2](SimpleXpress-Calculator-2.png)
 
 ## Author
 
